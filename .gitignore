@@ -60,3 +60,6 @@ typings/
 # npm lock file
 package-lock.json
 
+# MacOS
+.DS_Store
+

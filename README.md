@@ -16,7 +16,7 @@ const jsonData = [
 ]
 const opts = {
   sheetName: 'person',                    // defalut: sheet
-  head: ['person-name', 'person-name'],   // default: all keys name
+  head: ['person-name', 'person-age'],   // default: all keys name
   fields: ['name', 'age'],                // default: all keys value
 }
 
