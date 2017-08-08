@@ -1,0 +1,30 @@
+{
+  "name": "json-xlsx-simply",
+  "version": "1.0.0",
+  "description": "translate json to xlsx simply",
+  "main": "outputXLSX.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https:github.com/air-cc/json-xlsx-simply.git"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "keywords": [
+    "json",
+    "xlsx"
+  ],
+  "author": "air-cc <c989692c@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/air-cc/json-xlsx-simply/issues"
+  },
+  "homepage": "https://github.com/air-cc/json-xlsx-simply#readme",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "xlsx": "^0.11.1"
+  }
+}
